@@ -10,9 +10,8 @@
 - 언어: Dart
 - 상태 관리: Riverpod
 - 데이터베이스: Isar
-- 의존성 주입: GetIt
+- 의존성 주입: Riverpod
 
-## 프로젝트 구조
-lib/layers/data/entity/chat_message_dao.dart: 채팅 메시지 데이터 모델 정의
-lib/layers/domain/usecase/chat/chat_usecase.dart: 채팅 관련 유스케이스 정의
-lib/layers/domain/repository/chat_repository.dart: 채팅 관련 리포지토리 인터페이스 정의
+## 버전
+- Flutter: 3.24.4 
+
